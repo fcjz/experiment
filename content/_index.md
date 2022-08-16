@@ -1,26 +1,31 @@
 ---
-title: 🪴 Quartz 3.2
+title: “Maybe someone's experiment”
 ---
+📦
+It's a package with someone's experiment in it.
+Open it, then continue his experimental process, complete the experiment.
+Maybe in the process, you can find new experimental ideas and create more possibilities for experiments. I believe you will not be bored, although this is just a Frankenstein remark.😶
+It's not bad to have a look though, it won't cost you much time.
+You can create an experiment yourself after reading this and send it to the next you.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## main content:
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+sundries
+experience
+software
+jokes (maybe dark humor)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+There is no order, no structure, and you can wander around at will.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## a little hint
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Feel free to browse, click on links to go to other pages.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Gone.🤠
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+### Links
+- 🚧 
+- 🐛 
+- 👀 
 
+Well, there are no other experimental items to settle in for the time being.😅
