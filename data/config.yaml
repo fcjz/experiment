@@ -23,3 +23,5 @@ links:
     link: https://qoto.org/@fcjz
   - link_name: Github
     link: https://github.com/fcjz
+favicon:
+  - { rel: "shortcut icon", href: "akl.png", type: "image/png"}
