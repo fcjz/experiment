@@ -13,6 +13,8 @@ It's not bad to have a look though, it won't cost you much time.
 
 You can create an experiment yourself after reading this and send it to the next you.
 
+有关这个实验品的更多信息详见[关于这个实验品和我的知识管理流程](notes/PKM.md)
+
 ## main content:
 
 sundries
