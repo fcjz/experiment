@@ -19,7 +19,7 @@ tags:
 
 这是我的知识管理流程图，仅供参考，不一定适合所有人。
 
-![Knowledge Management Flowchart](/content/notes/images/page.png)
+![Knowledge Management Flowchart](notes/images/page.png)
 
 > [!quote] Quote
 >
