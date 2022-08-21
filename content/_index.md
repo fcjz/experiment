@@ -15,6 +15,8 @@ You can create an experiment yourself after reading this and send it to the next
 
 有关这个实验品的更多信息详见[关于这个实验品和我的知识管理流程](notes/PKM.md)
 
+有关这个实验品搭建与疑问的更多信息详见[搭建Quartz时的小插曲](notes/Website%20building%20steps%20and%20episodes.md)
+
 ## main content:
 
 sundries
