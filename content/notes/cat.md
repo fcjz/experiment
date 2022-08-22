@@ -56,3 +56,7 @@ jsonPath: " https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.mod
 
 ## 结尾
 没有别的意思，只是想说ok了。
+
+话说，不知道为什么，我的GitHub action 运行时出现了内部错误……我得想个办法解决掉它才行，不然网站更新决不可能成功。
+
+加油吧，我最喜欢折腾这些有趣好玩的东西了！
