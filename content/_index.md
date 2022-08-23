@@ -27,13 +27,13 @@ You can create an experiment yourself after reading this and send it to the next
 
 ## main content:
 
-sundries
+🗃sundries
 
-experience
+☑experience
 
-software
+🖥software
 
-jokes (maybe dark humor)
+🎃jokes (maybe dark humor)
 
 
 There is no order, no structure, and you can wander around at will.
