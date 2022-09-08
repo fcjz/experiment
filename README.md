@@ -1,5 +1,8 @@
 # experiment
-A experiment by someone.  made by Quartz,a good digital garden host tool.
+
+A experiment by someone. 
+
+Maybe it will be used to do something cool in the future?
 
 ![experiment](https://github.com/fcjz/experiment/blob/hugo/experiment.png)
 
